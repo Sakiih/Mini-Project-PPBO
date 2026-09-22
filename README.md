@@ -30,4 +30,4 @@ http://localhost:8000
 
 ## Catatan
 
-Data menu dan transaksi disimpan di session browser, bukan database. Cocok untuk demo mini project dan masih sederhana untuk dipahami mahasiswa semester 3.
+Data menu dan transaksi disimpan di session browser, bukan database.
