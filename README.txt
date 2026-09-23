@@ -15,7 +15,7 @@ Kasir: kasir / 12345
 
 Alur Kasir:
 Login -> Validasi akun -> Dashboard Kasir -> Tambah Pesanan -> Validasi Pesanan ->
-Input Pembayaran -> Validasi Pembayaran -> Hitung Kembalian -> Struk.
+Input Pembayaran -> Validasi Pembayaran -> Hitung Kembalian -> Struk-> Laporan Transaksi.
 
 Jika pembayaran kurang, pesanan tetap tersimpan dan kasir diminta memasukkan pembayaran lagi.
 
